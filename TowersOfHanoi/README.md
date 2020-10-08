@@ -5,5 +5,5 @@ The idea of this game is to move all the discs on pole a to pole c.
 * you can only move one disc at a time.
 
 Any amount of disc can be moved.
-It will take 2N−1 moves, where N is the number of discs
+It will take 2^N-1 moves, where N is the number of discs
 
